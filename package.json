@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "A unified backend API that standardizes payment across multiple African mobile money providers (MTN, Airtel Money, M-Pesa).",
   "keywords": [
-    "Mobipay"
+    "MobiPay Africa",
+    "Mobile Money Payment SDK",
+    "SDK"
   ],
   "homepage": "https://github.com/joseph-akaro/mobipay-africa#readme",
   "bugs": {
@@ -19,5 +21,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
   }
 }
