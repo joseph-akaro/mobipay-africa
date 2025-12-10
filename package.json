@@ -1,0 +1,23 @@
+{
+  "name": "mobipay",
+  "version": "0.0.1",
+  "description": "A unified backend API that standardizes payment across multiple African mobile money providers (MTN, Airtel Money, M-Pesa).",
+  "keywords": [
+    "Mobipay"
+  ],
+  "homepage": "https://github.com/joseph-akaro/mobipay-africa#readme",
+  "bugs": {
+    "url": "https://github.com/joseph-akaro/mobipay-africa/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseph-akaro/mobipay-africa.git"
+  },
+  "license": "MIT",
+  "author": "Joseph Akaro",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
